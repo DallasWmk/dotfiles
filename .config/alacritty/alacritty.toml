@@ -1,0 +1,22 @@
+
+[font]
+normal = {family = "Mononoki Nerd Font", style = "Normal"}
+size = 20.0
+
+[window]
+decorations = "none"
+dynamic_padding = false
+opacity = 0.90
+
+[window.padding]
+x = 2
+y = 2
+
+[scrolling]
+history = 100000
+
+[general]
+
+import = [
+    "~/.config/alacritty/themes/themes/tomorrow_night.toml"
+]
